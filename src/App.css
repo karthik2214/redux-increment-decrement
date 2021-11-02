@@ -16,6 +16,7 @@
 .quantity .quantity-minus, .quantity-plus {
   color: aliceblue;
   font-size: 4rem;
+  text-decoration: none;
   user-select: none;
 }
 

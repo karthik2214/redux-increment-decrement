@@ -17,6 +17,7 @@ const App = () => {
             className="quantity-minus"
             title="Decrement"
             onClick={() => dispatch(decNum())}
+            href="#"
           >
             <span>-</span>
           </a>
@@ -30,6 +31,7 @@ const App = () => {
             className="quantity-plus"
             title="Increment"
             onClick={() => dispatch(incNum())}
+            href="#"
           >
             <span>+</span>
           </a>
