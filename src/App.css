@@ -17,6 +17,8 @@
   color: aliceblue;
   font-size: 4rem;
   text-decoration: none;
+  background: none;
+  border: none;
   user-select: none;
 }
 
